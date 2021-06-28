@@ -1,6 +1,6 @@
 # Hey there. 👋 I'm Paul.
 
-## Check out my [Github](https://github.com/PaulMichaelArmstrong)
+### Check out my [Github](https://github.com/PaulMichaelArmstrong)
 
 💻 I'm a designer learning to code
 
@@ -10,4 +10,3 @@
 
 ## Table of Contents
 [Growth Mindset](/growth-mindset)
-
