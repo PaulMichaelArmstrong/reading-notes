@@ -1,3 +1,7 @@
+layout: page
+title: "Reading Notes | Growth Mindset"
+permalink: /growth-mindset/
+
 [< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
 
 ## Growth Mindset
