@@ -3,4 +3,4 @@ I'm a Bay Area-based designer learning to code. Check out [my Github](https://gi
 
 
 ### Reading Notes
-[Growth Mindset](https://paulmichaelarmstrong.github.io/reading-notes/growth-mindset)
+[Growth Mindset](https://paulmichaelarmstrong.github.io/reading-notes/growth-mindset.md)
