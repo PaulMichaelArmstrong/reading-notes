@@ -1,6 +1,6 @@
 layout: page
-title: "Reading Notes | Growth Mindset"
-permalink: /growth-mindset/
+title: "/reading-notes/growth-mindset.md"
+permalink: /reading-notes/growth-mindset.md
 
 [< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
 
