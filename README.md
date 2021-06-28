@@ -1,12 +1,6 @@
 # Hey there. 👋 I'm Paul.
+I'm a Bay Area-based designer learning to code. Check out [my Github](https://github.com/PaulMichaelArmstrong) to see my development work.
 
-### Check out my [Github](https://github.com/PaulMichaelArmstrong)
 
-💻 I'm a designer learning to code
-
-🌁 I live in the Bay Area
-
-🏳️‍🌈 I am part of the LGBTQ+ community
-
-## Table of Contents
+## Reading Notes
 [Growth Mindset](/growth-mindset)
