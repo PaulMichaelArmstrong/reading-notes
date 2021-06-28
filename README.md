@@ -1,6 +1,6 @@
 # reading-notes
 
-## My name is Paul. Heyo.
+## Heyo. I'm Paul.
 - idea 1
 - idea 2
 - idea 3
