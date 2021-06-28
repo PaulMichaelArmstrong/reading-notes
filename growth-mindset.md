@@ -1,4 +1,4 @@
-[< Back](READ-ME.md)
+[< Back](README.md)
 
 ## Growth Mindset
 It feels like growth mindset leans on neuroplasticity by learning to be with the discomfort of expanding our understanding. It also is an attitude when approaching difficulty - finding joy in obstacles in order to have a relationship with learning that leads us to move forward rather than stopping when running into new challenges.
@@ -11,4 +11,4 @@ It feels like growth mindset leans on neuroplasticity by learning to be with the
 - Don't compare yourself with others
 - Growth mindset leads to longterm goals
 
-[< Back](READ-ME.md)
+[< Back](README.md)
