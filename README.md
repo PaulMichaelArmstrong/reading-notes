@@ -6,4 +6,5 @@
 - idea 3
 
 **This is some bold text**
+
 *This is italicized text*
