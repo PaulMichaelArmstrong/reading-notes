@@ -7,4 +7,4 @@
 
 **This is some bold text**
 
-_This is italicized text_
+*This is italicized text*
