@@ -7,3 +7,4 @@ I'm a Bay Area-based designer learning to code. Check out [my Github](https://gi
 - [Growth Mindset](growth-mindset.md)
 - [Learning Markdown](learning-markdown.md)
 - [The Coder's Computer](coders-computer.md)
+- [Git Intro](git-intro.md)
