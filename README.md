@@ -8,3 +8,4 @@ I'm a Bay Area-based designer learning to code. Check out [my Github](https://gi
 - [Learning Markdown](learning-markdown.md)
 - [The Coder's Computer](coders-computer.md)
 - [Git Intro](git-intro.md)
+- [Structuring Web Pages With HTML](structuring-web-pages-with-html.md)
