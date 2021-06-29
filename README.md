@@ -3,5 +3,5 @@ I'm a Bay Area-based designer learning to code. Check out [my Github](https://gi
 
 
 ### Reading Notes
-[Growth Mindset](growth-mindset.md)
-[Learning Markdown](learning-markdown.md)
+- [Growth Mindset](growth-mindset.md)
+- [Learning Markdown](learning-markdown.md)
