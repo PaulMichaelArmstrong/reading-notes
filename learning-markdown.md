@@ -5,7 +5,7 @@ So you're probably asking yourself, "wtf is markdown?!" You may have heard of HT
 
 There are a handful of things you can do with Markdown and here is just a few:
 Style | Example | Result
------ | ------- | ------
+--- | --- | ---
 Bold | `**Bold**` | **Bold** 
 Italic | `_Italic_` | _Italic_
 Strikethrough | `~~Strikethrough~~` | ~~Strikethrough~~
