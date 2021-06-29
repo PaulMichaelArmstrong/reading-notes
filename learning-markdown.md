@@ -14,6 +14,8 @@ Hyperlink | `[Link](https://thecatapi.com/)` | [Link](https://thecatapi.com/)
 
 So simple, right?! If you want to see all that you can do with it check out this [simple cheat sheet](https://www.markdownguide.org/cheat-sheet/).
 
+***
+
 **Sources:**
 - [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Pages video](https://youtu.be/2MsN8gpT6jY)
