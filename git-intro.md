@@ -1,4 +1,4 @@
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)
 
 # Git Intro
 Over the years developers have created a system that helps them with version control. Originally this was locally on their own hard drive, then centrally on a storage system, then distribued that not only allows everything to be hosted centrally but also to keep files safe if the centralize version control system goes down. This has allowed for developers to have mirred repositories and collaborate with much more ease and agility. This is where Git come in.
@@ -16,4 +16,4 @@ It sounds way more intense than it really is. A little work up front is work it 
 **Sources:**
 [Git Tutorial: A Compreshensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
 
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)

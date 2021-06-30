@@ -1,4 +1,4 @@
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)
 
 #Dynamic Web Pages With JavaScript
 
@@ -10,4 +10,4 @@
 - [W3 Schools - JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
 - [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)

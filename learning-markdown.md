@@ -1,4 +1,4 @@
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)
 
 # Learning Markdown
 So you're probably asking yourself, "wtf is markdown?!" You may have heard of HTML or CSS - these are ways for coders to build and style webpages. Markdown is similar but it focuses on styling text on the web. Markdown makes it super simple to make text headlines, bold, italics, hyperlinks, and more. This can only work in text fields set up for Markdown. So don't try making this work in Google Docs but try it out it Slack!
@@ -21,4 +21,4 @@ So simple, right?! If you want to see all that you can do with it check out this
 - [GitHub Pages video](https://youtu.be/2MsN8gpT6jY)
 - [Basic Writing and Formatting Syntax on Github](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)

@@ -38,4 +38,4 @@ It may feel like a lot but just a little time and patience and you'll be whizzin
 - [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 - [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)

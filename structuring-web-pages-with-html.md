@@ -1,4 +1,4 @@
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)
 
 # Structuring Web Pages With HTML
 
@@ -78,4 +78,4 @@ And now you have all the building blocks of a website!
 - [MDN Web Docs - Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [MDN Web Docs - HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)

@@ -1,4 +1,4 @@
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)
 
 # Designing Web Pages With CSS
 Cascading Style Sheets – better known as CSS – is what creates the visual looks of a webpage. If HTML is the structure of the house, CSS is the paint, carpets, finishes, furniture, and art. CSS lets you tell a browser how it should render an HTML file so you can control how fonts, colors, layout, and even animation is displayed to a user. 
@@ -26,4 +26,4 @@ CSS can be added three different ways: externally, internally, and inline. Exter
 - [MDN Web Docs - CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Meyer Web - CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)
