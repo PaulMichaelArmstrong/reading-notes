@@ -9,3 +9,4 @@ I'm a Bay Area-based designer learning to code. Check out [my Github](https://gi
 - [The Coder's Computer](coders-computer.md)
 - [Git Intro](git-intro.md)
 - [Structuring Web Pages With HTML](structuring-web-pages-with-html.md)
+- [Designing Web Pages With CSS](designing-web-pages-with-html.md)
