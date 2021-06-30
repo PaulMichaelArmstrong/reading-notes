@@ -1,4 +1,4 @@
-[< Back](https://paulmichaelarmstrong.github.io/reading-notes/)
+[< Back](README.md)
 
 # The Coder's Computer
 If you're going to get into coding there is a set of tools that you need to have and/or be comfortable with: the text-editor and the terminal. Let's dive into each one.
