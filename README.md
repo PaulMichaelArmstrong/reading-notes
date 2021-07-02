@@ -10,4 +10,6 @@ I'm a Bay Area-based designer learning to code. Check out [my Github](https://gi
 - [Git Intro](git-intro.md)
 - [Structuring Web Pages With HTML](structuring-web-pages-with-html.md)
 - [Designing Web Pages With CSS](designing-web-pages-with-css.md)
-- [Dynamic Web Pages with JavaScript](dynamic-web-pages-with-javascript.md)
+- [Dynamic Web Pages With JavaScript](dynamic-web-pages-with-javascript.md)
+- [Programming With JavaScript](programming-with-javascript.md)
+- [Operations And Loops](operations-and-loops.md)
